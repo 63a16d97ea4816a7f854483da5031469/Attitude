@@ -53,4 +53,7 @@ This folder is for attitude
 <img src="./4.png"/>
 
 <img src="./5.jpg" height="300"/>
-<img src="./6.jpg" height="450"/>
+<img src="./6.jpg" height="450" width="1000"/>
+<img src="./actionFuture.jpg" height="200" width="1000"/>
+要对生活和技术充满想象力：
+<img src="./imagination.png"/>
