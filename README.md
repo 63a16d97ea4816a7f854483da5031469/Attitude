@@ -69,6 +69,10 @@ This folder is for attitude
 你要专心仰仗耶和华，不可仰仗自己的聪明－－－》时常这样想，就能心平气和，常怀感恩心，谦卑谨慎的做事情。圣经是智慧结晶。
 
 
+The two most powerful warriors are patience and time.
+时间与耐心是最强大的两个战士。
+
+
 <img src="./1.png"/>
 <img src="./2.jpg"/>
 
