@@ -72,11 +72,16 @@ This folder is for attitude
 ##谈智慧
 * 永远不要试图与傻瓜争辩。特别是说服傻瓜，or说服在气头上的人。
 * 不要为过去遗憾，因为那是过去。
+* 过度关注自己的情绪感受，过度关注事情的细节，容易忽略事情的全局，全景，看不清事实。
+* 永远保持笑容，因为比你惨的人大有人在，你的微笑能够治愈自己，也能够治愈别人。why not？
+* 如果不要对一些人有期待，就不会有过度的伤害。无欲则刚。
 
 
 The two most powerful warriors are patience and time.
 时间与耐心是最强大的两个战士。
 
+Celebrate your gifts, enjoy them, but don' t take pride in them, take pride in your decision and hardwork.
+庆幸你的天赋并好好利用吧，但不要因为天赋而沾沾自喜，应该为自己的勤奋和决断而自豪。
 
 <img src="./1.png"/>
 <img src="./2.jpg"/>
