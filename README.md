@@ -69,6 +69,10 @@ This folder is for attitude
 
 你要专心仰仗耶和华，不可仰仗自己的聪明－－－》时常这样想，就能心平气和，常怀感恩心，谦卑谨慎的做事情。圣经是智慧结晶。
 
+##谈智慧
+* 永远不要试图与傻瓜争辩。特别是说服傻瓜，or说服在气头上的人。
+* 不要为过去遗憾，因为那是过去。
+
 
 The two most powerful warriors are patience and time.
 时间与耐心是最强大的两个战士。
