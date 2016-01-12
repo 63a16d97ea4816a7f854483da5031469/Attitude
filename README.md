@@ -81,6 +81,9 @@ This folder is for attitude
 * 如果不要对一些人有期待，就不会有过度的伤害。无欲则刚。
 
 
+Great hopes make great man.
+大希望造就大人物。
+
 The two most powerful warriors are patience and time.
 时间与耐心是最强大的两个战士。
 
